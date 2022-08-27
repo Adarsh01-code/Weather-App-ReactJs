@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was created using  create-react-app  (https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
@@ -8,11 +8,10 @@ In the project directory, you can run:
 
 ### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Runs the app in the development mode
+The application is deployed using "FIREBASE"
+Your can click the following URL to visit Website.
+URL :: https://weather-app-2f632.web.app/
 
 ### `npm test`
 
