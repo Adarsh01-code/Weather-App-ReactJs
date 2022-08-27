@@ -8,10 +8,10 @@ In the project directory, you can run:
 
 ### `npm start`
 
-Runs the app in the development mode
-The application is deployed using "FIREBASE"
+Runs the app in the development mode.  
+The application is deployed using "FIREBASE".   
 Your can click the following URL to visit Website.
-URL :: https://weather-app-2f632.web.app/
+URL :: **https://weather-app-2f632.web.app/**
 
 ### `npm test`
 
